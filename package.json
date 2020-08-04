@@ -1,0 +1,19 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "great start!\r this folder is sample/demo for practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betsegaw-hp/git-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Betsegaw-hp/git-demo/issues"
+  },
+  "homepage": "https://github.com/Betsegaw-hp/git-demo#readme"
+}
